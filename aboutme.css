@@ -13,9 +13,17 @@ h2{
 }
 
 .likes{
-
+  float: left;
+  width: 50%;
 }
 
 .dislikes{
-  
+  float: right;
+
+
+}
+
+.photo{
+  float: left;
+  width: 50%;
 }
